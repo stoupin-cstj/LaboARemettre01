@@ -1,4 +1,4 @@
-// But: Le programme lit un entier et il détermine si c'est un entier pair ou impair
+// But: Le programme lit un entier et il dÃ©termine si c'est un entier pair ou impair
 // Auteur : Samuel Toupin
 // Date : 2020/09/13
 
@@ -33,9 +33,9 @@ int  main()
 
 
 /*
+// KM : Dans le plan de tests, mets des valeurs nÃ©gatives et 0
 
-
-nombre1             résultat
+nombre1             rÃ©sultat
 5                   5 est un nombre impair 
 10                  10 est un nombre pair
 12                  12 est un nombre pair
